@@ -1,0 +1,3 @@
+In a vacation company, they have to group 3 people in 2 taxis. They have to assign which taxi to take to all of these people taking into account that the 
+person 1 and the person 2 get along, while the person 3 does not cope with them both.
+

@@ -1,0 +1,2 @@
+Person 1 and 2 can only go together in one taxi, the other three persons must go in the other taxi. It should be noted that a taxi can be used to transport 
+4 persons including the driver.

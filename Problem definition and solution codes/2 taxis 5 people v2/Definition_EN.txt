@@ -1,0 +1,1 @@
+Person 1 and 2 cannot go together, all possible combinations can be made with this in mind. It should also be taken into account that a taxi can carry 4 persons including the driver.
