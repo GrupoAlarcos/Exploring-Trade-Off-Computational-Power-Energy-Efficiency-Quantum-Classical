@@ -17,7 +17,7 @@ Quantum computing is considered a revolutionary technology due to its ability to
 This repository contains the source code of 5 quantum algorithms and their counterpart classical implementations in C.
 The repository also includes the resulting empirical results and and the previous study performed to obtain the optimal number of executions per measurement to be carried out in the classical computing scenario.
 
-## How is structured?
+## How is it structured?
 This repository contains three main folders: number of executions per measurement study, problem definition and solution codes and time and consumption results.
 
 ## Number of executions per measurement study Folder
